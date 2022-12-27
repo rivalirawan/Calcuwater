@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calcuwater</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="nama">Nama</string>
+    <string name="debit">Debit (m^3/s)</string>
+    <string name="back">Back</string>
+    <string name="nama_bendungan">Nama Bendungan</string>
+    <string name="lebar_pintu_air">Lebar Pintu Air (m)</string>
+    <string name="tinggi_bukan_pintu">Tinggi Bukaan Pintu (m)</string>
+    <string name="selisih_tinggi_air">Selisih Tinggi Air (m)</string>
+    <string name="username">Username</string>
+    <string name="debit_air">Debit Air (m^3/s):</string>
+    <string name="password">Password</string>
+    <string name="log_in">Login</string>
+</resources>
